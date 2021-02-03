@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.example.semus": {
-      "version": "file:C:/Projects/Unity/com.example.semus/package",
+      "version": "file:../../../package",
       "depth": 0,
       "source": "local",
       "dependencies": {}

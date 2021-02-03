@@ -60,22 +60,22 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BugFarm.cs" />
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Projects/Unity/com.example.semus/samples/unity-of-bugs/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/samples/unity-of-bugs/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -255,40 +255,40 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="System.Memory">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Memory.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Memory.dll</HintPath>
  </Reference>
  <Reference Include="Microsoft.Bcl.AsyncInterfaces">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
  </Reference>
  <Reference Include="System.Threading.Tasks.Extensions">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Threading.Tasks.Extensions.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Threading.Tasks.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="System.Collections.Immutable">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Collections.Immutable.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Collections.Immutable.dll</HintPath>
  </Reference>
  <Reference Include="System.Runtime.CompilerServices.Unsafe">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="System.Reflection.Metadata">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Reflection.Metadata.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Reflection.Metadata.dll</HintPath>
  </Reference>
  <Reference Include="System.Text.Json">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Text.Json.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Text.Json.dll</HintPath>
  </Reference>
  <Reference Include="System.Text.Encodings.Web">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Text.Encodings.Web.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Text.Encodings.Web.dll</HintPath>
  </Reference>
  <Reference Include="System.Buffers">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Buffers.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Buffers.dll</HintPath>
  </Reference>
  <Reference Include="Sentry">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/Sentry.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/Sentry.dll</HintPath>
  </Reference>
  <Reference Include="System.Numerics.Vectors">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/System.Numerics.Vectors.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/System.Numerics.Vectors.dll</HintPath>
  </Reference>
  <Reference Include="HelloLibrary">
- <HintPath>C:/Projects/Unity/com.example.semus/package/Runtime/HelloLibrary.dll</HintPath>
+ <HintPath>C:/Projects/Unity/com.example.semus-2/package/Runtime/HelloLibrary.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

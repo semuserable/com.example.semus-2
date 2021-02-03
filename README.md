@@ -1,6 +1,10 @@
 * `package` - installable `UPM`
-* `samples` - Unity sample project
+* `samples` - Unity sample projects
 * `src` - package source code
+
+# package
+
+Install via `https://github.com/semuserable/com.example.semus-2.git?path=/package`
 
 # src
 
@@ -25,7 +29,7 @@ git submodule update --init --recursive
 ```json
 {
     "dependencies": {
-        "com.example.semus": "file:C:/Projects/Unity/com.example.semus/package"
+        "com.example.semus": "file:../../../package"
     }
 }
 ```
