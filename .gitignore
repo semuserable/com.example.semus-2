@@ -1,0 +1,7 @@
+**.idea/
+**/bin/
+**/obj/
+
+samples/**/Library
+samples/**/Logs
+samples/**/Temp

@@ -1,0 +1,15 @@
+<Project>
+    <PropertyGroup>
+        <LangVersion>9</LangVersion>
+        <Nullable>enable</Nullable>
+        <UnityVersion>2019.4.18f1</UnityVersion>
+        <WarningsAsErrors>true</WarningsAsErrors>
+        <GenerateDependencyFile>false</GenerateDependencyFile>
+        <PackageRuntimePath>../../package/Runtime</PackageRuntimePath>
+        <PackageEditorPath>../../package/Editor</PackageEditorPath>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="Exists('C:\Program Files\Unity\Hub\Editor\$(UnityVersion)\Editor\Data\Managed\UnityEngine.dll')">
+        <UnityPath>C:\Program Files\Unity\Hub\Editor\$(UnityVersion)\Editor\Data\Managed</UnityPath>
+    </PropertyGroup>
+</Project>
